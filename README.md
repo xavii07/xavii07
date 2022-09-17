@@ -1,5 +1,5 @@
 📌 Hi, I’m XAVIER GASPATA
-I’m a FullStack software developer, I am a frelancer and also a student at the University. I am currently working on my personal projects. I am a fan of technology, programming. I’m also interested in entrepreneurship and innovation. You can visit my website with a click on the button above.
+I’m a FullStack software developer, I am a frelancer and also a student at the University. I am currently working on my personal projects. I am a fan of technology, programming. I’m also interested in entrepreneurship and innovation.
 
 ## My Skills
 
