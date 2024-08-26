@@ -7,7 +7,7 @@ I’m a FullStack software developer, I am a frelancer and also a student at the
 
 ## Connect me
 
-[![](https://img.shields.io/badge/Email-222?style=for-the-badge&logo=gmail)](mailto:xaviergaspa123@gmail.com) [![](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=brave)]([https://xavii07.github.io/Portafolio/](https://xaviergaspata.netlify.app/)) [![](https://img.shields.io/badge/Twitter-222?style=for-the-badge&logo=twitter)](https://twitter.com/xavii072) [![](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/xavier-gaspata)
+[![](https://img.shields.io/badge/Email-222?style=for-the-badge&logo=gmail)](mailto:xaviergaspa123@gmail.com) [![](https://img.shields.io/badge/Website-222?style=for-the-badge&logo=brave)](https://xaviergaspata.netlify.app/) [![](https://img.shields.io/badge/Twitter-222?style=for-the-badge&logo=twitter)](https://twitter.com/xavii072) [![](https://img.shields.io/badge/LinkedIn-222?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/xavier-gaspata)
 
 
 <!---
