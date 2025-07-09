@@ -1,6 +1,4 @@
-📌 Hi, I’m XAVIER GASPATA
-I’m a FullStack software developer, I am a frelancer and also a student at the University. I am currently working on my personal projects. I am a fan of technology, programming. I’m also interested in entrepreneurship and innovation.
-
+📌 Hello, I’m XAVIER GASPATA, Systems Engineer and Full-Stack Developer. I’ve been working as a freelancer; over the past year I’ve been building web and mobile applications, developing AI agents and workflows. I’m a huge fan of technology, programming, and entrepreneurship 🚀
 ## My Skills
 
 ![HTML](https://img.shields.io/badge/HTML-222?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-222?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-222?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-222?style=for-the-badge&logo=react) ![NextJS](https://img.shields.io/badge/Nextjs-222?style=for-the-badge&logo=nextdotjs) ![NodeJS](https://img.shields.io/badge/NodeJS-222?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/Express-222?style=for-the-badge&logo=express) ![Posgresql](https://img.shields.io/badge/Postgresql-222?style=for-the-badge&logo=postgresql) ![Git](https://img.shields.io/badge/Git-222?style=for-the-badge&logo=git)
